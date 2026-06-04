@@ -11,7 +11,6 @@ The current goal with the project is to have 24 microgames, and 3 main game mode
   - Brief tutorials visualizing the control schemes pop up before beginning a new minigame.
   - The levels will gradually increase in difficulty as the game goes on, testing the players reaction times and providing a variety of play styles.
 - Endless Play:
-  - 
 - Mural View:
   - A large mural depicting the plants of the microgames tidying and interacting with eachother will act as a dynamic set peice featured on the game's main menu and the basis for this mode.
   - When first opening the game, all the plants will appear greyed out, but will appear in batches when their associated level in the campaign is beaten.
