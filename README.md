@@ -3,7 +3,7 @@
 A microgame collection being developed independently using Unity. Said microgames are themed around plants doing chores for thier owner who could use the extra help.
 All development of the game's programming, implementation, design, sprites, animations, and testing are being developed solely by myself.
 
-The current goal with the project is to have 24 microgames, and 3 main game modes:
+The current goal with the project is to have 24 microgames, and 3 core game modes:
 - Main Campaign:
   - The game's brief narrative is told through skippable comic segments before playing the actual game. The player is shown the unmotivated owner content with his status quo, and living in his untidied home. As he leaves to grab a coffee, the plants reveal their sentience and comprise a plan to clean up the place before he gets back.
   - There will be 3 levels, each containing 8 microgames.
